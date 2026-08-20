@@ -1,5 +1,8 @@
 # mti-cncbi-ai-analysis-skill
 
+- GitHub: https://github.com/lgh726-Git/mti-cncbi-ai-analysis-skill
+- Gitee: https://gitee.com/bhacn/mti-cncbi-ai-analysis-skill
+
 MTI / CNCBI One Account **美债 + 结构票据兑换链路**周度 AI 分析 Skill。
 
 - 生成 `AI分析-YYYYMMDD`（Markdown / HTML / PDF / JSON）
@@ -19,14 +22,11 @@ git clone https://github.com/lgh726-Git/mti-cncbi-ai-analysis-skill.git \
 ### Gitee
 
 ```bash
-# 首次推送（需私人令牌）
-export GITEE_TOKEN=xxxxxxxx
-bash scripts/push_gitee.sh
-
-# 克隆
-git clone https://gitee.com/<your-gitee-user>/mti-cncbi-ai-analysis-skill.git \
+git clone https://gitee.com/bhacn/mti-cncbi-ai-analysis-skill.git \
   ~/.agents/skills/mti-cncbi-ai-analysis
 ```
+
+镜像地址：https://gitee.com/bhacn/mti-cncbi-ai-analysis-skill
 
 ### 依赖
 

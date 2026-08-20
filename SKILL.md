@@ -20,6 +20,9 @@ description: Weekly MTI/CNCBI UST and converted structured-note P&L analysis wit
 # 1) Install skill (agent skills dir or clone)
 git clone https://github.com/lgh726-Git/mti-cncbi-ai-analysis-skill.git \
   ~/.agents/skills/mti-cncbi-ai-analysis
+# or Gitee:
+# git clone https://gitee.com/bhacn/mti-cncbi-ai-analysis-skill.git \
+#   ~/.agents/skills/mti-cncbi-ai-analysis
 
 # 2) Config
 mkdir -p ~/.config/mti-ai-analysis
