@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.xlsx
+*.pdf
+!docs/**/*.pdf
+config.json
+.env
+.idea/
+.vscode/
+AI分析-*/
+cncbi-holdings/
+*.log
+.temp/

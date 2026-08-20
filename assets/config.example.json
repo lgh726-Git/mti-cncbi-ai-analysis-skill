@@ -1,0 +1,14 @@
+{
+  "entity": "MERIT TALENT INT'L LIMITED",
+  "account": "CNCBI One Account 735-3-60028-4-88",
+  "workdir": "~/AI/CODEX/cncbi-holdings",
+  "log_dir": "~/Library/Logs/mti-ai-analysis",
+  "mti_finance_root": "/path/to/MTI誉泰国际 正式备案/财务类",
+  "ai_root": "/path/to/MTI誉泰国际 正式备案/财务类/银行理财/AI分析",
+  "detail_workbook_candidates": [
+    "~/Desktop/待解密/被兑换债权的理财明细.xlsx",
+    "/path/to/银行理财/被兑换的国债/被兑换债权的理财明细.xlsx"
+  ],
+  "mount_script": "~/Library/Scripts/mount-drobo-smb.sh",
+  "fallback_y30": 0.05181
+}
