@@ -19,6 +19,11 @@ git clone https://github.com/lgh726-Git/mti-cncbi-ai-analysis-skill.git \
 ### Gitee
 
 ```bash
+# 首次推送（需私人令牌）
+export GITEE_TOKEN=xxxxxxxx
+bash scripts/push_gitee.sh
+
+# 克隆
 git clone https://gitee.com/<your-gitee-user>/mti-cncbi-ai-analysis-skill.git \
   ~/.agents/skills/mti-cncbi-ai-analysis
 ```
